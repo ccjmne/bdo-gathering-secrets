@@ -1,7 +1,10 @@
-Pigs ===========================================================================
+Boars ==========================================================================
 
     In Solgaji Forest, on the route West towards Shimnidae Forest, just before
     crossing the river, to your right.
+
+    There are some more in Yeowoo Pass, near Gumiho's Shrine, just 80 metres
+    down and South from Hosan, the stable keeper from the Honglim Base.
 
 
 Birds ==========================================================================
