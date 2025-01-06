@@ -1,9 +1,11 @@
 Foxes ==========================================================================
 
-    On the border between Gowun Plateau and Dokkebi Forest, right above
-    Duoksini's lair, just a smidge down and right from its icon on the World
-    map.  They're right by the road going down southwards from the Gowun
-    Plateau.
+                                    TOO FEW
+
+    Around the area between Gowun Plateau and Dokkebi Forest, right atop
+    (altitude-wise) Duoksini's lair, just a smidge down and right from its icon
+    on the World map.  They're right by the road going down southwards from the
+    Gowun Plateau.
 
 
 Boars ==========================================================================
