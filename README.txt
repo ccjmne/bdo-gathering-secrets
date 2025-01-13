@@ -10,6 +10,9 @@ Foxes ==========================================================================
 
 Boars ==========================================================================
 
+    Bordering Bari Forest, just off the road east of the natural bay, just atop
+    the Eastern cliff.
+
     In Solgaji Forest, on the route West towards Shimnidae Forest, just before
     crossing the river, to your right.
 
